@@ -1,7 +1,7 @@
 # Windows Monitor Profile Switcher
 
 This project contains a set of batch scripts designed to handle complex monitor transitions 
-(e.g., switching between a Triple-Monitor desk setup and a Single-Monitor 4K TV/Bed setup).
+(e.g., switching between a triple monitor setup and a single monitor setup).
 
 ## Prerequisites
 1. MultiMonitorTool.exe (Free utility from NirSoft)
@@ -9,7 +9,7 @@ This project contains a set of batch scripts designed to handle complex monitor 
 
 ## Installation
 1. Download MultiMonitorTool.exe and place it in the same folder as these scripts.
-2. Manually set up your monitors for "All" (Triple) and "TV" (TV Only) modes. (for further explanation, these batch files are set up specifically for my monitor layout preferences. From left to right, I have a 4k tv, gaming monitor, gaming monitor. These two batch profiles allow me to quickly enable or disable my gaming monitors. When the gaming monitors are enabled, the left-most gaming monitor is also assigned 'Primary'.)
+2. Manually set up your monitors for "All" (Triple) and "Single" (TV Only) modes. (for further explanation, these batch files are set up specifically for my monitor layout preferences. From left to right, I have a 4k tv, gaming monitor, gaming monitor. These two batch profiles allow me to quickly enable or disable my gaming monitors. When the gaming monitors are enabled, the left-most gaming monitor is also assigned 'Primary'.)
 3. Use MultiMonitorTool's "Save Monitors Config" (Ctrl+S) to create:
    - All.cfg
    - TV.cfg
